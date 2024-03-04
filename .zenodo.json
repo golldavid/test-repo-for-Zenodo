@@ -25,6 +25,14 @@
     "communities": [
       { "identifier": "pikpotsdam" }
     ],
+
+    "access_conditions": "",
+
+    "doi": "",
+
+    "prereserve_doi": false,
+
+    "notes": "",
     
     "version": "",
 
