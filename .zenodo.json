@@ -6,7 +6,8 @@
     "creators": [
       {
         "name": "Author Last Name, Author First Name",
-        "affiliation": "Author's Affiliation (optional)"
+        "affiliation": "Author's Affiliation (optional)",
+        "orcid": ""
       },
       {
         "name": "Second Author Last Name, Second Author First Name",
