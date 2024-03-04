@@ -25,5 +25,45 @@
     "communities": [
       { "identifier": "pikpotsdam" }
     ]
+
+    "access_conditions": "",
+
+    "doi": "",
+
+    "prereserve_doi": false,
+
+    "notes": "",
+
+    "related_identifiers": [
+        {
+            "relation": "",
+            "identifier": "",
+            "resource_type": ""
+        }
+    ],
+
+    "contributors": [
+        {
+            "name": "",
+            "type": "",
+            "affiliation": "",
+            "orcid": ""
+        }
+    ],
+
+    "references": [
+        "",
+        ""
+    ],
+
+    "grants": [
+        { "id": "" }
+    ],
+
+    "version": "",
+
+    "language": "eng",
+
+    "method": ""
     
   }
