@@ -25,7 +25,11 @@
     "communities": [
       { "identifier": "pikpotsdam" }
     ],
+    
+    "version": "",
 
+    "language": "eng",
+    
     "method": ""
     
   }
