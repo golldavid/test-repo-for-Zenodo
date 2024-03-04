@@ -1,0 +1,74 @@
+{
+    "upload_type": "software",
+
+    "publication_date": "",
+
+    "title": "Your title",
+
+    "creators": [
+      {
+        "name": "Author Last Name, Author First Name",
+        "affiliation": "Author's Affiliation (optional)",
+        "orcid": "Author's ORCID (optional)"
+      },
+      {
+        "name": "Second Author Last Name, Second Author First Name",
+        "affiliation": "Second Author's Affiliation (optional)",
+        "orcid": "Second Author's ORCID (optional)"
+      }
+    ],
+
+    "description": "A brief abstract or description of your software.",
+
+    "access_right": "open",
+    
+    "license": "BSD-2-Clause",
+
+    "keywords": ["Potsdam Institute for Climate Impact Research", "PIK" ],
+
+    "communities": [
+      { "identifier": "pikpotsdam" }
+    ],
+
+    "access_conditions": "",
+
+    "doi": "",
+
+    "prereserve_doi": false,
+
+    "notes": "",
+
+    "related_identifiers": [
+        {
+            "relation": "",
+            "identifier": "",
+            "resource_type": ""
+        }
+    ],
+
+    "contributors": [
+        {
+            "name": "",
+            "type": "",
+            "affiliation": "",
+            "orcid": ""
+        }
+    ],
+
+    "references": [
+        "",
+        ""
+    ],
+
+    "grants": [
+        { "id": "" }
+    ],
+
+    "version": "",
+
+    "language": "eng",
+
+    "method": ""
+    
+  }
+  
