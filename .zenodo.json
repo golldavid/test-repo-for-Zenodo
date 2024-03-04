@@ -1,35 +1,29 @@
 {
+    "upload_type": "software",
+
+    "title": "Your title",
+
     "creators": [
-        {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
-        },
-        {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
-        }
+      {
+        "name": "Author Last Name, Author First Name",
+        "affiliation": "Author's Affiliation (optional)"
+      },
+      {
+        "name": "Second Author Last Name, Second Author First Name",
+        "affiliation": "Second Author's Affiliation (optional)"
+      }
     ],
 
-    "license": "Apache-2.0",
+    "description": "A brief abstract or description of your software.",
 
-    "title": "Red-Dot: ML-powered laser vector detection",
+    "access_right": "open",
+    
+    "license": "BSD-2-Clause",
 
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
-        }
-    ],
-
-    "keywords": ["Cats", "Laser", "Behavior"],
+    "keywords": ["Potsdam Institute for Climate Impact Research", "PIK" ],
 
     "communities": [
-        {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
-}
+      { "identifier": "pikpotsdam" }
+    ]
+    
+  }
