@@ -9,12 +9,12 @@
       {
         "name": "Author Last Name, Author First Name",
         "affiliation": "Author's Affiliation (optional)",
-        "orcid": "Author's ORCID (optional)"
+        "orcid": ""
       },
       {
         "name": "Second Author Last Name, Second Author First Name",
         "affiliation": "Second Author's Affiliation (optional)",
-        "orcid": "Second Author's ORCID (optional)"
+        "orcid": ""
       }
     ],
 
