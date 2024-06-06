@@ -4,9 +4,28 @@
   "title": "Your title",
 
   "creators": [
-    {
-      "name": "Author Last Name, Author First Name",
-      "affiliations": [
+      {
+        "affiliations": [
+          {
+            "id": "03e8s1d88",
+            "name": "Potsdam Institute for Climate Impact Research"
+          },
+          {
+            "name": "https://ror.org/03e8s1d88"
+          },
+          {
+            "name": "https://pik-potsdam.de"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Author Last Name",
+          "given_name": "Author First Name",
+          "name": "Author Last Name, Author First Name",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
           {
             "id": "03e8s1d88",
             "name": "Potsdam Institute for Climate Impact Research"
@@ -16,22 +35,14 @@
             "name": "Humboldt-Universit\u00e4t zu Berlin"
           }
         ],
-      "orcid": "" 
-    },
-    {
-      "name": "Second Author Last Name, Second Author First Name",
-      "affiliations": {
-            "id": "03e8s1d88",
-            "name": "Potsdam Institute for Climate Impact Research"
-          },
-      "orcid": "" 
-    },
-    {
-      "name": "Third Author Last Name, Third Author First Name",
-      "affiliation": ["https://ror.org/01hcx6992", "https://ror.org/03e8s1d88"],
-      "orcid": "" 
-    }
-  ],
+        "person_or_org": {
+          "family_name": "Second Author Last Name",
+          "given_name": "Second Author First Name",
+          "name": "Second Author Last Name, Second Author First Name",
+          "type": "personal"
+        }
+      }
+    ],
 
   "description": "A brief abstract or description of your software/dataset.",
 
