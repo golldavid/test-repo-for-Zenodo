@@ -6,12 +6,24 @@
   "creators": [
     {
       "name": "Author Last Name, Author First Name",
-      "affiliation": "https://ror.org/03e8s1d88",
+      "affiliation": [
+          {
+            "id": "03e8s1d88",
+            "name": "Potsdam Institute for Climate Impact Research"
+          },
+          {
+            "id": "01hcx6992",
+            "name": "Humboldt-Universit\u00e4t zu Berlin"
+          }
+        ],
       "orcid": "" 
     },
     {
       "name": "Second Author Last Name, Second Author First Name",
-      "affiliation": "https://pik-potsdam.de",
+      "affiliation": {
+            "id": "03e8s1d88",
+            "name": "Potsdam Institute for Climate Impact Research"
+          },
       "orcid": "" 
     },
     {
@@ -33,7 +45,10 @@
     {
       "name": "ContactPerson Last Name, ContactPerson First Name",
       "type": "ContactPerson",  
-      "affiliation": "https://ror.org/03e8s1d88", 
+      "affiliation": {
+            "id": "03e8s1d88",
+            "name": "Potsdam Institute for Climate Impact Research"
+          }, 
       "orcid": ""
     }
   ]
