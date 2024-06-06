@@ -6,7 +6,7 @@
   "creators": [
     {
       "name": "Author Last Name, Author First Name",
-      "affiliation": ["Author's Affiliation (optional), https://ror.org/03e8s1d88"],
+      "affiliation": ["Author's Affiliation (optional)", "https://ror.org/03e8s1d88", "https://pik-potsdam.de"],
       "orcid": "" 
     },
     {
