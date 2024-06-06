@@ -1,45 +1,37 @@
 {
-    "upload_type": "software",
+  "upload_type": "software", 
 
-    "title": "Your title",
+  "title": "Your title",
 
-    "creators": [
-      {
-        "name": "Author Last Name, Author First Name",
-        "affiliation": "Author's Affiliation (optional)",
-        "orcid": ""
-      },
-      {
-        "name": "Second Author Last Name, Second Author First Name",
-        "affiliation": "Second Author's Affiliation (optional)",
-        "orcid": ""
-      }
-    ],
+  "creators": [
+    {
+      "name": "Author Last Name, Author First Name",
+      "affiliation": ["Author's Affiliation (optional), https://ror.org/03e8s1d88"],
+      "orcid": "" 
+    },
+    {
+      "name": "Second Author Last Name, Second Author First Name",
+      "affiliation": ["Second Author's Affiliation (optional), https://ror.org/01hcx6992"],
+      "orcid": "" 
+    }
+  ],
 
-    "description": "A brief abstract or description of your software.",
+  "description": "A brief abstract or description of your software/dataset.",
 
-    "access_right": "open",
-    
-    "license": "BSD-2-Clause",
+  "access_right": "open",
+  
+  "license": "BSD-2-Clause", 
 
-    "keywords": ["Potsdam Institute for Climate Impact Research", "PIK" ],
+  "keywords": ["Potsdam Institute for Climate Impact Research", "PIK", "Software", "Model", "Data", "active-development"], 
 
-    "communities": [
-      { "identifier": "pikpotsdam" }
-    ],
+  "contributors": [
+    {
+      "name": "ContactPerson Last Name, ContactPerson First Name",
+      "type": "ContactPerson",  
+      "affiliation": "https://ror.org/03e8s1d88", 
+      "orcid": ""
+    }
+  ]
+  
+}
 
-    "access_conditions": "",
-
-    "doi": "",
-
-    "prereserve_doi": false,
-
-    "notes": "",
-    
-    "version": "",
-
-    "language": "eng",
-    
-    "method": ""
-    
-  }
