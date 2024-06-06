@@ -6,12 +6,17 @@
   "creators": [
     {
       "name": "Author Last Name, Author First Name",
-      "affiliation": ["Author's Affiliation (optional)", "https://ror.org/03e8s1d88", "https://pik-potsdam.de"],
+      "affiliation": "https://ror.org/03e8s1d88",
       "orcid": "" 
     },
     {
       "name": "Second Author Last Name, Second Author First Name",
-      "affiliation": ["Second Author's Affiliation (optional)", "https://ror.org/01hcx6992"],
+      "affiliation": "https://pik-potsdam.de",
+      "orcid": "" 
+    },
+    {
+      "name": "Third Author Last Name, Third Author First Name",
+      "affiliation": ["https://ror.org/01hcx6992", "https://ror.org/03e8s1d88"],
       "orcid": "" 
     }
   ],
