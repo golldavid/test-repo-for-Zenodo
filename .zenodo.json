@@ -6,7 +6,7 @@
   "creators": [
     {
       "name": "Author Last Name, Author First Name",
-      "affiliation": "Potsdam Institute for Climate Impact Research"
+      "affiliation": "Potsdam Institute for Climate Impact Research",
       "orcid": "" 
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "ContactPerson Last Name, ContactPerson First Name",
       "type": "ContactPerson",  
-      "affiliation": "03e8s1d88"
+      "affiliation": "03e8s1d88",
       "orcid": ""
     }
   ]
