@@ -1,36 +1,31 @@
 {
-  "upload_type": "dataset", 
+  "upload_type": "software", 
 
-  "title": "Your title",
-  
+  "title": "East Asian Summer Monsoon in CMIP6",
+
   "creators": [
     {
-      "name": "Author Last Name, Author First Name",
+      "name": "-, -",
       "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
-      "orcid": "" 
-    },
-    {
-      "name": "Second Author Last Name, Second Author First Name",
-      "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
-      "orcid": "" 
+      "orcid": "0000-0003-4187-2377" 
     }
   ],
 
   "contributors": [
     {
-      "name": "ContactPerson Last Name, ContactPerson First Name",
-      "type": "ContactPerson",  
+      "name": "-, -",
+      "type": "ContactPerson",       
       "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
-      "orcid": "" 
+      "orcid": "0000-0003-4187-2377"
     }
   ],
 
-  "description": "A brief abstract or description of your software/dataset.",
+  "description": "- ",
 
   "access_right": "open",
-  
+
   "license": "BSD-2-Clause", 
 
-  "keywords": ["Potsdam Institute for Climate Impact Research", "PIK", "Software", "Model", "Data", "PaperCompanion", "active-development" ]
+  "keywords": ["Potsdam Institute for Climate Impact Research", "PIK", "Software", "PaperCompanion", "as-is", "RD4", "Monsoon", "Atmosphere", "Asia" ]  
 }
 
