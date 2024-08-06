@@ -1,21 +1,29 @@
 {
-  "upload_type": "software", 
+  "upload_type": "dataset", 
 
   "title": "Your title",
-
+  
   "creators": [
     {
       "name": "Author Last Name, Author First Name",
-      "affiliation": "Potsdam Institute for Climate Impact Research",
+      "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
       "orcid": "" 
     },
     {
       "name": "Second Author Last Name, Second Author First Name",
-      "affiliation": "Potsdam Institute for Climate Impact Research",
+      "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
       "orcid": "" 
     }
   ],
 
+  "contributors": [
+    {
+      "name": "ContactPerson Last Name, ContactPerson First Name",
+      "type": "ContactPerson",  
+      "affiliation": "Potsdam Institute for Climate Impact Research (PIK)",
+      "orcid": "" 
+    }
+  ],
 
   "description": "A brief abstract or description of your software/dataset.",
 
@@ -23,16 +31,6 @@
   
   "license": "BSD-2-Clause", 
 
-  "keywords": ["Potsdam Institute for Climate Impact Research", "PIK", "Software", "Model", "Data", "active-development"], 
-
-  "contributors": [
-    {
-      "name": "ContactPerson Last Name, ContactPerson First Name",
-      "type": "ContactPerson",  
-      "affiliation": "Potsdam Institute for Climate Impact Research",
-      "orcid": ""
-    }
-  ]
-  
+  "keywords": ["Potsdam Institute for Climate Impact Research", "PIK", "Software", "Model", "Data", "PaperCompanion", "active-development" ]
 }
 
